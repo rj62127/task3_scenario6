@@ -185,12 +185,13 @@ This setup ensures secure communication between the Kafka brokers and clients, r
 
 This is a screenshot of the fixed issue:
 
-![alt text](<images/Screenshot from 2024-09-25 14-59-45 (3rd copy).png>)
-![alt text](<images/Screenshot from 2024-09-25 14-59-51 (3rd copy).png>)
-![alt text](<images/Screenshot from 2024-09-25 14-59-51 (another copy).png>)
-![alt text](<images/Screenshot from 2024-09-25 15-01-57.png>)
-![alt text](<images/Screenshot from 2024-09-25 15-02-55 (copy).png>)
+![alt text](<images/Screenshot from 2024-09-25 14-59-45.png>)
+![alt text](<images/Screenshot from 2024-09-25 14-59-51.png>)
+![alt text](<images/Screenshot from 2024-09-25 15-00-06.png>)
+![alt text](<images/Screenshot from 2024-09-25 15-00-14.png>)
+![alt text](<images/Screenshot from 2024-09-25 15-00-25 (copy).png>)
+![alt text](<images/Screenshot from 2024-09-25 15-00-30.png>)
+![alt text](<images/Screenshot from 2024-09-25 15-00-39.png>)
+![alt text](<images/Screenshot from 2024-09-25 15-00-42.png>)
+![alt text](<images/Screenshot from 2024-09-25 15-02-31.png>)
 ![alt text](<images/Screenshot from 2024-09-25 15-02-55.png>)
-
-
-
